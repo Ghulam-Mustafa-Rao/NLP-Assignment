@@ -36,4 +36,5 @@ Run the `text_classification_pipeline.ipynb` notebook step-by-step:
 
 
 🔝 Best performing model: TF-IDF + SVM
+
 📉 Lowest performance: Word2Vec + Logistic Regression
