@@ -6,7 +6,7 @@ This project implements a complete **text classification pipeline** using tradit
 
 ## 📌 Project Overview
 
-Run the `text_classification_pipeline.ipynb` notebook step-by-step:
+Run the `NLP_Assignment.ipynb` notebook step-by-step:
 
 1. **Preprocess** text data (lowercasing, tokenization, stopword removal, etc.)
 2. **Extract Features** using:
